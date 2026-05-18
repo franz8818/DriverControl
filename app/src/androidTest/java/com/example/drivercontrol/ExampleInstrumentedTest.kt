@@ -1,4 +1,4 @@
-package com.example.drivercontrolo
+package com.example.drivercontrol
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

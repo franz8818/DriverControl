@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.drivercontrolo"
+    namespace = "com.example.drivercontrol"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1

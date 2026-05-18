@@ -1,4 +1,4 @@
-package com.example.drivercontrolo.ui.theme
+package com.example.drivercontrol.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
