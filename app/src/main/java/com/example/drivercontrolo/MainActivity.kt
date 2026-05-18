@@ -28,7 +28,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun MainScreen(modifier: Modifier = Modifier) {
     Text(
-        text = "DriverControl 💰",
+        text = "DriverControl BETA 💰",
         modifier = modifier
     )
 }
